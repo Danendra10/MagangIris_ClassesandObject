@@ -19,3 +19,7 @@ Dalam mendeklarasikan class sendiri ada 3 tipe _Access Specifier_ atau _Class Sp
 - Public
 - Private
 - Pritected
+***
+1. Public
+Jika kita menggunakan public dalam suatu kelas, maka semua syntax yang ada di dalam public itu
+dapat diakses semua fungsi dibawahnya
